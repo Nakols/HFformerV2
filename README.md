@@ -1,4 +1,4 @@
-# HFformer Repository
+# HFformer
 
 HFformer is a Transformed-based deep learning model for high-frequency trading time series forecasting.
 
