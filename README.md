@@ -1,4 +1,6 @@
-# IP
+# HFformer Repository
+
+HFformer is a Transformed-based deep learning model for high-frequency trading time series forecasting.
 
 The following Github repositories were used to build the deep learning models:
 - LSTM: https://github.com/lkulowski/LSTM_encoder_decoder
