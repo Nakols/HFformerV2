@@ -9,5 +9,5 @@ The following Github repositories were used to build the deep learning models:
 - TFT: https://github.com/mattsherar/Temporal_Fusion_Transform
 
 Data repository:
-- raw Limit Order Book data: https://drive.google.com/drive/folders/1GXXiVyXXCXenNsGWRAmMbXd1Xvf-lZq5?usp=sharing
-- processed Limit Order Book data: https://drive.google.com/drive/folders/1GVJ050lVeS6vFjZ9CERYkL5W5YhKOLHw?usp=sharing 
+- raw LOB data: https://drive.google.com/drive/folders/1GXXiVyXXCXenNsGWRAmMbXd1Xvf-lZq5?usp=sharing
+- processed LOB data: https://drive.google.com/drive/folders/1GVJ050lVeS6vFjZ9CERYkL5W5YhKOLHw?usp=sharing 
