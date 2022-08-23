@@ -7,6 +7,7 @@ The following Github repositories were used to build the deep learning models:
 - Transformer: https://github.com/AIStream-Peelout/flow-forecast
 - Autoformer and FEDformer: https://github.com/cure-lab/DLinear
 - TFT: https://github.com/mattsherar/Temporal_Fusion_Transform
+- Spiking activation: https://github.com/nengo/pytorch-spiking
 
 Data repository:
 - [raw LOB data](https://drive.google.com/drive/folders/1GXXiVyXXCXenNsGWRAmMbXd1Xvf-lZq5?usp=sharing)
