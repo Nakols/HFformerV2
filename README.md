@@ -2,6 +2,8 @@
 
 HFformer is a Transformed-based deep learning model for high-frequency trading time series forecasting. Limit Order Book (LOB) data for the USDT-BTC trading pair is collected from [Binance APIs](https://www.binance.com/en/binance-api).
 
+The MSc thesis can be accessed [here](https://drive.google.com/file/d/1xykOQ-Z-h-UgDNVypmQeDcSiZejLOz7w/view?usp=sharing).
+
 The following Github repositories were used to build the deep learning models:
 - LSTM: https://github.com/lkulowski/LSTM_encoder_decoder
 - Transformer: https://github.com/AIStream-Peelout/flow-forecast
